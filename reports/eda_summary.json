@@ -1,0 +1,26 @@
+{
+  "kpis": {
+    "Total Revenue": 2297200.8603,
+    "Total Orders": 5009,
+    "Total Quantity Sold": 37873,
+    "Average Order Value": 458.6146656618087,
+    "Total Profit": 286397.0217
+  },
+  "repeat_customers": {
+    "total_customers": 793,
+    "repeat_customers": 781,
+    "one_time_customers": 12,
+    "repeat_customer_pct": 98.49
+  },
+  "insights": {
+    "top_category_by_revenue": "Technology",
+    "top_category_by_profit": "Technology",
+    "top_product_by_revenue": "Canon imageCLASS 2200 Advanced Copier",
+    "top_region": "West",
+    "top_segment": "Consumer",
+    "best_month": "November 2017",
+    "best_month_sales": 118447.825,
+    "average_order_value": 458.6146656618087,
+    "repeat_customer_pct": 98.49
+  }
+}

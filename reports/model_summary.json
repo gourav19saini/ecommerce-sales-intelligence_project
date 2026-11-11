@@ -1,0 +1,35 @@
+{
+  "best_model": "Linear Regression",
+  "comparison": [
+    {
+      "Model": "Linear Regression",
+      "MAE": 4275.471691533083,
+      "RMSE": 6248.9362396536135,
+      "R2": 0.9373106194308818
+    },
+    {
+      "Model": "Decision Tree",
+      "MAE": 11582.980893333333,
+      "RMSE": 13947.465029431998,
+      "R2": 0.6876997339994659
+    },
+    {
+      "Model": "Gradient Boosting",
+      "MAE": 11510.085476964734,
+      "RMSE": 14785.476738512029,
+      "R2": 0.6490441738153074
+    },
+    {
+      "Model": "Random Forest",
+      "MAE": 11229.020259573274,
+      "RMSE": 15088.968816949424,
+      "R2": 0.6344886109085444
+    }
+  ],
+  "n_train_months": 36,
+  "n_test_months": 9,
+  "monthly_dataset_shape": [
+    45,
+    12
+  ]
+}
